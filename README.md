@@ -120,5 +120,3 @@ Feel free to email or schedule an appointment for additional support.
 ---
 
 This course will push boundaries, challenge perspectives, and help you develop a robust ethical framework for navigating the ever-evolving world of technology. Let’s make it a thought-provoking semester! 🎉
-
-Let me know if you need further refinements!
