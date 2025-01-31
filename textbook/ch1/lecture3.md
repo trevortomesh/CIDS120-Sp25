@@ -51,4 +51,3 @@ While relativism allows for **cultural diversity and individual freedom**, it ra
 
 ### Conclusion
 Understanding the **is-ought problem** and various **ethical theories** provides a foundation for deeper discussions on morality. We will continue by examining **cultural relativism** and other ethical frameworks in our next class. Thank you for your participation, and remember to send me an email if you need a clicker for the next session!
-
