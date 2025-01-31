@@ -9,9 +9,11 @@ Welcome to the repository for **CIDS 120: Ethics in Computing**! This repository
 ## **📖 Living Textbook**
 This repository is structured to support the course's dynamic and interactive nature. Key topics and lecture materials are available as linked chapters and resources. Explore them below:
 
-### **Introduction**
+### **Chapter 0: Introduction**
 - [Lecture 1: Course Introduction](textbook/ch0/lecture1.md)
 
+### **Chapter 1: Ethical Theory**
+- [Lecture 3: IS-Aught and Divine Command Theory](textbook/ch1/lecture3.md)
 ---
 
 ## **📂 Repository Contents**
