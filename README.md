@@ -1,8 +1,6 @@
-Here’s the README.md for CIDS 120: Ethics in Computing, styled similarly to the previous ones for CIDS 161, CIDS 162, and CIDS 235:
-
 # **CIDS 120 Repository**
 
-Welcome to the repository for **CIDS 120: Ethics in Computing**! This repository serves as the living textbook and central resource for all course materials, including lecture notes, assignments, and additional readings for the Spring 2025 semester. This course challenges students to critically examine ethical issues in technology and computing, fostering intellectual discourse and debate.
+Welcome to the repository for **CIDS 120: Ethics in Computing**! This repository serves as the living textbook. This course challenges students to critically examine ethical issues in technology and computing, fostering intellectual discourse and debate.
 
 ---
 
@@ -23,10 +21,10 @@ CIDS120-Sp25/
 │
 ├── textbook/
 │   ├── ch0/              # Chapter 0: Introduction to Ethics and Free Speech
-│   │   ├── lecture1.md   # Lecture 1: Course Introduction
-│   │   └── lecture2.md   # Lecture 2: Foundations of Ethics
+│   │   └── lecture1.md   # Lecture 1: Course Introduction
+│   │  
 │   ├── ch1/              # Chapter 1: Key Ethical Frameworks
-│   │   └── …           # Placeholder for future lectures
+│   │   └── …              # Placeholder for future lectures
 │   └── …
 │
 ├── resources/            # Supplementary readings and materials
