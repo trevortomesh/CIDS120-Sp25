@@ -13,6 +13,7 @@ This repository is structured to support the course's dynamic and interactive na
 ### **Chapter 1: Ethical Theory**
 - [Lecture 3: IS-Aught and Divine Command Theory](textbook/ch1/lecture3.md)
 - [Lecture 4: Moral Relativism and Ethical Egoism](textbook/ch1/lecture4.md)
+- [Lecture 5: Ethical Egoism and Utilitarianism](textbook/ch1/lecture5.md)
 ---
 
 ## **📂 Repository Contents**
