@@ -15,7 +15,11 @@ This repository is structured to support the course's dynamic and interactive na
 - [Lecture 4: Moral Relativism and Ethical Egoism](textbook/ch1/lecture4.md)
 - [Lecture 5: Ethical Egoism and Utilitarianism](textbook/ch1/lecture5.md)
 - [Lecture 6: Kantianism and Virtue Ethics](textbook/ch1/lecture6.md)
+- [Lecture 7: Ethical Frameworks and the Enlightenment](textbook/ch1/lecture7.md)
 ---
+
+### **Chapter 2: Ethics: The American Perspective**
+
 
 ## **📂 Repository Contents**
 The repository is organized into the following sections:
