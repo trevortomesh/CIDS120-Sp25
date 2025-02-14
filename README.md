@@ -17,9 +17,10 @@ This repository is structured to support the course's dynamic and interactive na
 - [Lecture 6: Kantianism and Virtue Ethics](textbook/ch1/lecture6.md)
 - [Lecture 7: Ethical Frameworks and the Enlightenment](textbook/ch1/lecture7.md)
 - [Lecture 8: Social Contract Theory and the Foundations of American Ethics](textbook/ch1/lecture8.md)
+- [Lecture 9: The Bill of Rights and the Constitution](textbook/ch1/lecture9.md)
 ---
 
-### **Chapter 2: Ethics: The American Perspective**
+### **Chapter 2: Freedom of Speech**
 
 
 ## **📂 Repository Contents**
