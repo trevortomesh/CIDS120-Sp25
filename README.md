@@ -19,9 +19,8 @@ This repository is structured to support the course's dynamic and interactive na
 - [Lecture 8: Social Contract Theory and the Foundations of American Ethics](textbook/ch1/lecture8.md)
 - [Lecture 9: The Bill of Rights and the Constitution](textbook/ch1/lecture9.md)
 ---
-
 ### **Chapter 2: Freedom of Speech**
-
+- [Lecture 10: Position Papers & Writing Structure & Free Speech](textbook/ch2/lecture10.md)
 
 ## **📂 Repository Contents**
 The repository is organized into the following sections:
