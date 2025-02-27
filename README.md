@@ -23,7 +23,7 @@ This repository is structured to support the course's dynamic and interactive na
 - [Lecture 10: Position Papers & Writing Structure & Free Speech](textbook/ch2/lecture10.md)
 - [Lecture 11: Free Speech Cont'd](textbook/ch2/lecture11.md)
 - [Lecture 12: Free Speech & Cancel Culture](textbook/ch2/lecture12.md)
-
+- [Lecture 13: Cancel Culture & Free Speech Contd](textbook/ch2/lecture13.md)
 ## **📂 Repository Contents**
 The repository is organized into the following sections:
 ```
