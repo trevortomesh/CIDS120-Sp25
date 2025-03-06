@@ -28,6 +28,8 @@ This repository is structured to support the course's dynamic and interactive na
 ### **Chapter 3: Social Media**
 - [Lecture 14: Social Media & The Evolution of Media](textbook/ch3/lecture14.md)
 - [Lecture 15: Social Media, Carriers and Platforms -- Section 230](textbook/ch3/lecture15.md)
+- [Lecture 16: Social Media, Government Influence, and Content Moderation](textbook/ch3/lecture16.md)
+---
 ## **📂 Repository Contents**
 The repository is organized into the following sections:
 ```
