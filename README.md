@@ -25,10 +25,11 @@ This repository is structured to support the course's dynamic and interactive na
 - [Lecture 12: Free Speech & Cancel Culture](textbook/ch2/lecture12.md)
 - [Lecture 13: Cancel Culture & Free Speech Contd](textbook/ch2/lecture13.md)
 ---
-### **Chapter 3: Social Media**
+### **Chapter 3: Social Media and Mobile Computing**
 - [Lecture 14: Social Media & The Evolution of Media](textbook/ch3/lecture14.md)
 - [Lecture 15: Social Media, Carriers and Platforms -- Section 230](textbook/ch3/lecture15.md)
 - [Lecture 16: Social Media, Government Influence, and Content Moderation](textbook/ch3/lecture16.md)
+- [Lecture 17: The Enchanted Slate of Glass: The Power and Problems of Mobile Computing](textbook/ch3/lecture17.md)
 ---
 ## **📂 Repository Contents**
 The repository is organized into the following sections:
