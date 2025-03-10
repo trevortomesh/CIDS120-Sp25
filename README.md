@@ -30,6 +30,7 @@ This repository is structured to support the course's dynamic and interactive na
 - [Lecture 15: Social Media, Carriers and Platforms -- Section 230](textbook/ch3/lecture15.md)
 - [Lecture 16: Social Media, Government Influence, and Content Moderation](textbook/ch3/lecture16.md)
 - [Lecture 17: The Enchanted Slate of Glass: The Power and Problems of Mobile Computing](textbook/ch3/lecture17.md)
+- [Lecture 18: Smartphones, Pornography and the Gamification of Sex](textbook/ch3/lecture18.md)
 ---
 ## **📂 Repository Contents**
 The repository is organized into the following sections:
