@@ -33,6 +33,9 @@ This repository is structured to support the course's dynamic and interactive na
 - [Lecture 18: Smartphones, Pornography and the Gamification of Sex](textbook/ch3/lecture18.md)
 - [Lecture 19: Identity and Social Media](textbook/ch3/lecture19.md)
 - [Lecture 20: Identity and Social Media: A Critical Exploration](textbook/ch3/lecture20.md)
+
+### ** Midterm Review ***
+- [Lecture 21: Midterm Exam Review](textbook/misc/lecture21.md)
 ---
 ## **📂 Repository Contents**
 The repository is organized into the following sections:
