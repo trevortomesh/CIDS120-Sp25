@@ -34,6 +34,9 @@ This repository is structured to support the course's dynamic and interactive na
 - [Lecture 19: Identity and Social Media](textbook/ch3/lecture19.md)
 - [Lecture 20: Identity and Social Media: A Critical Exploration](textbook/ch3/lecture20.md)
 
+### **Chapter 4: Privacy**
+- [Lecture 22: Identity, Vulnerability, and the Right to Privacy](textbook/ch4/lecture22.md)
+
 ### ** Midterm Review ***
 - [Lecture 21: Midterm Exam Review](textbook/misc/lecture21.md)
 ---
