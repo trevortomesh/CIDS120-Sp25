@@ -36,7 +36,7 @@ This repository is structured to support the course's dynamic and interactive na
 
 ### **Chapter 4: Privacy**
 - [Lecture 22: Identity, Vulnerability, and the Right to Privacy](textbook/ch4/lecture22.md)
-
+- [Lecture23: Privacy, Vulnerability, and the Digital Age](textbook/ch4/lecture23.md)
 ### ** Midterm Review ***
 - [Lecture 21: Midterm Exam Review](textbook/misc/lecture21.md)
 ---
