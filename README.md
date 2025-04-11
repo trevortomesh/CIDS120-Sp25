@@ -40,7 +40,7 @@ This repository is structured to support the course's dynamic and interactive na
 - [Lecture 24: The Right to Privacy: Legal Origins and Modern Invasions](textbook/ch4/lecture24.md)
 - [Lecture 25: Privacy, Digital Legacy, and the Ethics of AI Resurrection](textbook/ch4/lecture25.md)
 - [Lecture 26: Privacy, AI, and Digital Threats in the 21st Century](textbook/ch4/lecture26.md)
-
+- [Lecture 27: Privacy, Data Collection, and Ethics in the Digital Age](textbook/ch4/lecture27.md)
 ### ** Midterm Review ***
 - [Lecture 21: Midterm Exam Review](textbook/misc/lecture21.md)
 ---
