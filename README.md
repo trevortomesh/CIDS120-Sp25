@@ -42,7 +42,7 @@ This repository is structured to support the course's dynamic and interactive na
 - [Lecture 26: Privacy, AI, and Digital Threats in the 21st Century](textbook/ch4/lecture26.md)
 - [Lecture 27: Privacy, Data Collection, and Ethics in the Digital Age](textbook/ch4/lecture27.md)
 - [Lecture 28: Ethical Treatment of Personal Information](textbook/ch4/lecture28.md)
-
+- [Lecture 29: Ethical Treatment of Personal Information contd](textbook/ch4/lecture29.md)
 ### ** Midterm Review ***
 - [Lecture 21: Midterm Exam Review](textbook/misc/lecture21.md)
 ---
