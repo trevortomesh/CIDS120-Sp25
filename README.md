@@ -43,6 +43,7 @@ This repository is structured to support the course's dynamic and interactive na
 - [Lecture 27: Privacy, Data Collection, and Ethics in the Digital Age](textbook/ch4/lecture27.md)
 - [Lecture 28: Ethical Treatment of Personal Information](textbook/ch4/lecture28.md)
 - [Lecture 29: Ethical Treatment of Personal Information contd](textbook/ch4/lecture29.md)
+- [Lecture 30: Cryptography – History, Principles, and Impact](textbook/ch4/lecture30.md)
 ### ** Midterm Review ***
 - [Lecture 21: Midterm Exam Review](textbook/misc/lecture21.md)
 ---
