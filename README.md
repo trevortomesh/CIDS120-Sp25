@@ -45,6 +45,7 @@ This repository is structured to support the course's dynamic and interactive na
 - [Lecture 29: Ethical Treatment of Personal Information contd](textbook/ch4/lecture29.md)
 - [Lecture 30: Cryptography – History, Principles, and Impact](textbook/ch4/lecture30.md)
 - [Lecture 31: Cryptography and PII Anonymity](textbook/ch4/lecture31.md)
+- [Lecture 32: Privacy, Anonymization, and K-Anonymity](textbook/ch4/lecture32.md)
 ### ** Midterm Review ***
 - [Lecture 21: Midterm Exam Review](textbook/misc/lecture21.md)
 ---
