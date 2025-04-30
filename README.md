@@ -48,6 +48,9 @@ This repository is structured to support the course's dynamic and interactive na
 - [Lecture 32: Privacy, Anonymization, and K-Anonymity](textbook/ch4/lecture32.md)
 - [Lecture 33: Privacy, Anonymization, and the Risks of Reidentification](textbook/ch4/lecture33.md)
 
+### **Chapter 5 LLMs**
+- [Lecture 34: Introduction to Large Language Models (LLMs)](textbook/ch5/lecture34.md)
+
 ### ** Midterm Review ***
 - [Lecture 21: Midterm Exam Review](textbook/misc/lecture21.md)
 ---
