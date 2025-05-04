@@ -47,6 +47,8 @@ This repository is structured to support the course's dynamic and interactive na
 - [Lecture 31: Cryptography and PII Anonymity](textbook/ch4/lecture31.md)
 - [Lecture 32: Privacy, Anonymization, and K-Anonymity](textbook/ch4/lecture32.md)
 - [Lecture 33: Privacy, Anonymization, and the Risks of Reidentification](textbook/ch4/lecture33.md)
+- [Lecture 34: Introduction to Large Language Models (LLMs)](textbook/ch5/lecture34.md)
+- [Lecture 35: The History and Development of Artificial Intelligence and Large Language Models](textbook/ch5/lecture35.md)
 
 ### **Chapter 5 LLMs**
 - [Lecture 34: Introduction to Large Language Models (LLMs)](textbook/ch5/lecture34.md)
